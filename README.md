@@ -35,3 +35,4 @@ This is a bare bone react application created for class WDD430 Full stack develo
 Currently, two official plugins are available:
 
 - [github](https://github.com/McDonaldMusimwa/ToDoList.git) 
+- [Live](https://todo-list-ten-mu-98.vercel.app/)
